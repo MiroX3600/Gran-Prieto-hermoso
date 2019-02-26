@@ -1,0 +1,66 @@
+	.Titulo{
+		font-size: 45px;
+		text-align: center;
+		color: black;
+	}
+			
+	.Menubar {
+		font-size: 20px;
+		font-family: Arial Black;
+		text-align: left;
+		display: block;
+		overflow: auto;
+		padding: 12px;
+	}
+	
+	.listas {
+		display: block;
+		font-family: Comic Sans;
+		font-size: 20px;
+		float: left;
+		padding: 10px;
+		background-color: none;
+		color: red;
+	}
+	
+	.cajatexto {
+		width: 60%;
+		font-family: Comic San;
+		font-size: 20px;
+		font-weight: -10px;
+		color: black;
+		background: lightblue;
+		margin: 150px 0px 0px;
+		padding: 1px;
+		border-radius: 0px 0px 0px 0px;
+		-moz-border-radius: 0px 0px 0px 0px;
+		-webkit-border-radius: 0px 0px 0px 0px;
+		border-color: 2px black;
+		text-align: left;
+	}	
+	
+	.areatexto {
+		margin: 0px -5px 20px;
+		width: 350px;
+		height: 350px;
+		font-family: Arial Black;
+		background: white;
+		color: black;
+	}
+	
+	.boton {
+		margin: 7px 0px 20px;
+		background: lightblue;
+		-webkit-border-radius: 30px;
+		-moz-border-radius: 30px;
+		border-radius: 30px;
+		text-shadow: 10px 10px 10px black;
+		box-shadow: 5px 6px 8px grey;
+		font-family: Comic San;
+		color: black;
+		font-size: 20px;
+		padding: 20px;
+		text-align: center;
+	}
+	
+	
